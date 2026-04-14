@@ -1,0 +1,3 @@
+Source code can be ran locally on your device using an IDE such as Spyder. 
+
+To run the python file simply download it to your device and launch an IDE such as Spyder and run the respective program there. 
